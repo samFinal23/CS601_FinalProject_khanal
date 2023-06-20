@@ -1,46 +1,56 @@
-CS601_Homework1_Khanal
+Please fill out and have ready for Final Demo. Please turn in with your final submission.
+1. How would you describe the website design? Does it use a color theme?
+> As this is my first web development class, I have very good website created in short time. 
+> I have used primaryly "Orange" and "Green" color for the background
+> I have used "Arial" for the global font and "Orange" as the global text color
 
-Instruction
-	Download the file 
-	Unzip the file
-	Open VS code and open the file “CS601_Homework1_Khanal
+2. How would you describe the website layout? Does it flow when resizing the window?
+>Yes, I have used media query to adjust dynamically 
+> I have also tried to center all the content as much as possbile
 
-Project Name: CS601_Homework1_Khanal
-Description: This project is related to my bio. I have build this website about my personal journey from my education, personal life, hobby, inspiration etc.
+3. How would you describe the text? Is it readable?
+> Yes, I have styled the heading in Bold and paragraph in regular size to make it easy to read.
 
-Module1: Home
-	Overview of my website provides brief detail about me. 
-	It has main navigation, couple of paragraph, Headlines and Image of conceptual journey and footer.
-Module2: About
-	Overview about me included in couple of paragraph. 
-	It has main navigation, couple of paragraphs, Headlines, Image of conceptual journey and footer.
-Module3: Education
-	Overview about my education journey 
-	It has main navigation, couple of paragraphs, table, headline, images, link to external site and footer. 
-Module4: Professional 
-	Overview about my professional journey 
-	It has main navigation, couple of paragraph, table, headline, images, and footer. 
-Module5: Hobby 
-	Overview about my hobby 
-	It has main navigation, couple of paragraph, headline, video, images, and footer. 
-Module6: Inspiration
-	Overview about my Inspiration 
-	It has main navigation, couple of paragraph, headline, images, and footer. 
-Module4: Contact 
-	Overview about my contact journey 
-	It has main navigation, couple of paragraph, list, headline, images, and footer. 
+4. How would you describe the navigation? Is it consistent across all pages?
+> I have considered to keep consistent experience among all the pages
+> User can jump from one page to another using the gloabl navigation bar
+
+5. Have you included an image on every page? Do they have Alt, Height, Width attributes?
+> Yes I have used image in all my pages
+>> for my "Home" page I have used Vue.js to create a dynamic experience to the User
+>> I have customized all the images and vidoes with custom border, size and placing
+
+6. Does the site have any broken links? Does it work in every browser?
+> No, All link are working. I am having trouble deploying the code via GitHub, but I have added my code as repositor and added my code document as back up
+
+7. Does the site use 5 – 7 new HTML5 semantic elements? Does it use a good variety of HTML
+elements, bold, italics, highlighting, etc….?
+> Yes, every page has 5-7 elements and they are all customize. I have used bold, italics and highlighter to make it attarctive. 
 
 
->>
-Week 2
+8. On what pages does the site use JavaScript? Do you think it shows mastery of the topic?
+> I have used javascript for all the pages to add the footer and 
+>> I have used JS for Home Page, Proffessional Page, Education Page, and Contact Page. 
+>> Yes, I think I have mastered the topic as I have used extensive JS in my project
+>>> All the tables in my project are using JS and the About page is using the Vue,JS
+>>> For the form in contact page I have added the DOM update and error validation function
 
->In week 2 I went back to week 1 code and validated, below are 2 error because of same id but I am using same CSS format.
-> I have one error on "My Education module" because of duplicate id but i am using same CSS format for both.
-> I have one error on "My Hobby module" because of duplicate id but i am using same CSS format for both.
+9. On what pages does the site use Vue.js? Given more time do you think you would use Vue on
+every page?
+> Yes, I would be using more of Vue if I had more time. AS this topic was introduce at the end of the class I ahve used only functionality I learned during the last week. 
+>> I have used Vue in my "About" page which is "index.html"
 
->I have organized the folder and flie structure 
-> I have added CSS code to all my 7 module
-> I have first created a global formatting for the consistency 
-> I have styled specific elements like image, Nav, headline, table and main content
-> I am new to development and it is my first time working with CSS so my media qurey is not great, 
-but I will continue to refine for the final project. 
+10. How does the site update the DOM? What pages show examples of updating the DOM?
+>> In the last page, I have added the form whoch updated the DOM.
+
+
+11. Does the site include extra credit, including: PHP, Database, Flexbox, Grid, CSS Media Queries or
+AJAX. Please explain.
+
+>> Yes, I have included the extra credit work by adding CSS Media Queries, and invoking external site once the form is submitted
+
+
+Note:
+
+1. When the user click submit button in the form it will take you to the BU site
+2. I have only 1 error message for my "index.html" for using Vue, Its new topic for me so I was not able to fix that error, If I had more time I would fix.
